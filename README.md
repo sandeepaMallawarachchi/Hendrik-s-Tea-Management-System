@@ -111,6 +111,9 @@ You can install above dependenceis one by one on terminal or using(install both 
   npm i react-scripts --save
   ```
   ```
+  npm i
+  ```
+  ```
   npm start
   ```
   
