@@ -108,6 +108,9 @@ You can install above dependenceis one by one on terminal or using(install both 
   cd frontend
   ```
   ```
+  npm i react-scripts --save
+  ```
+  ```
   npm start
   ```
   
@@ -130,11 +133,9 @@ You can install above dependenceis one by one on terminal or using(install both 
 
 Replace below Emails and Password with yours ( Backend --> .env )
 
-    ```
     USER=gun...@gmail.com
     EMAIL_USERNAME=sandeepa...@gmail.com
     EMAIL_PASSWORD=******
     PASS=******
     REGISTRATION_EMAIL=sandeepa...@gmail.com
     REGISTRATION_PASSWORD=******
-    ```
